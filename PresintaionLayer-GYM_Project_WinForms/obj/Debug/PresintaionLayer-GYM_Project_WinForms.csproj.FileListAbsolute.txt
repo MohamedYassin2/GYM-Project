@@ -1,0 +1,56 @@
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\bin\Debug\PresintaionLayer-GYM_Project_WinForms.exe.config
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\bin\Debug\PresintaionLayer-GYM_Project_WinForms.exe
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\bin\Debug\PresintaionLayer-GYM_Project_WinForms.pdb
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\bin\Debug\BusinessLayer(GYM_Project).dll
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\bin\Debug\DataAccessLayer(GYM_Project).dll
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\bin\Debug\BusinessLayer(GYM_Project).pdb
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\bin\Debug\DataAccessLayer(GYM_Project).pdb
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer-GYM_Project_WinForms.csproj.AssemblyReference.cache
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer-GYM_Project_WinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.Properties.Resources.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer-GYM_Project_WinForms.csproj.GenerateResource.cache
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer-GYM_Project_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer-GYM_Project_WinForms.csproj.CopyComplete
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer-GYM_Project_WinForms.exe
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer-GYM_Project_WinForms.pdb
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmMainScreen.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmMembers.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmAddEditMember.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmTrainers.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmAddEditTranier.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmUsers.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmAddEditUser.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmSubscriptionTypes.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmSubscriptions.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmAddEditSubscription.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmPayments.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmAddEditPayment.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmMembersTrainers.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\bin\Debug\PresintaionLayer-GYM_Project_WinForms.exe.config
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\bin\Debug\PresintaionLayer-GYM_Project_WinForms.exe
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\bin\Debug\PresintaionLayer-GYM_Project_WinForms.pdb
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\bin\Debug\BusinessLayer(GYM_Project).dll
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\bin\Debug\DataAccessLayer(GYM_Project).dll
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\bin\Debug\BusinessLayer(GYM_Project).pdb
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\bin\Debug\DataAccessLayer(GYM_Project).pdb
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer-GYM_Project_WinForms.csproj.AssemblyReference.cache
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer-GYM_Project_WinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmAddEditMember.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmAddEditPayment.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmAddEditSubscription.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmAddEditTranier.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmAddEditUser.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmMainScreen.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmMembers.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmMembersTrainers.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmPayments.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmSubscriptions.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmSubscriptionTypes.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmTrainers.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.frmUsers.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer_GYM_Project_WinForms.Properties.Resources.resources
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer-GYM_Project_WinForms.csproj.GenerateResource.cache
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer-GYM_Project_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer-GYM_Project_WinForms.csproj.CopyComplete
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer-GYM_Project_WinForms.exe
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\PresintaionLayer-GYM_Project_WinForms\obj\Debug\PresintaionLayer-GYM_Project_WinForms.pdb

@@ -1,0 +1,12 @@
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\DataAccessLayer(GYM_Project)\bin\Debug\DataAccessLayer(GYM_Project).dll
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\DataAccessLayer(GYM_Project)\bin\Debug\DataAccessLayer(GYM_Project).pdb
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\DataAccessLayer(GYM_Project)\obj\Debug\DataAccessLayer(GYM_Project).csproj.AssemblyReference.cache
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\DataAccessLayer(GYM_Project)\obj\Debug\DataAccessLayer(GYM_Project).csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\DataAccessLayer(GYM_Project)\obj\Debug\DataAccessLayer(GYM_Project).dll
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\DataAccessLayer(GYM_Project)\obj\Debug\DataAccessLayer(GYM_Project).pdb
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\DataAccessLayer(GYM_Project)\bin\Debug\DataAccessLayer(GYM_Project).dll
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\DataAccessLayer(GYM_Project)\bin\Debug\DataAccessLayer(GYM_Project).pdb
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\DataAccessLayer(GYM_Project)\obj\Debug\DataAccessLayer(GYM_Project).csproj.AssemblyReference.cache
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\DataAccessLayer(GYM_Project)\obj\Debug\DataAccessLayer(GYM_Project).csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\DataAccessLayer(GYM_Project)\obj\Debug\DataAccessLayer(GYM_Project).dll
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\GYM Project\DataAccessLayer(GYM_Project)\obj\Debug\DataAccessLayer(GYM_Project).pdb
